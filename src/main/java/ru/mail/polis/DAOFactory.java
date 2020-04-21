@@ -16,9 +16,8 @@
 
 package ru.mail.polis;
 
-import ru.mail.polis.kopeyka885.DAOClass;
-
 import org.jetbrains.annotations.NotNull;
+import ru.mail.polis.kopeyka885.DAOClass;
 
 import java.io.File;
 import java.io.IOException;
