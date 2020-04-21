@@ -1,4 +1,4 @@
-package ru.mail.polis.Kopeyka885;
+package ru.mail.polis.kopeyka885;
 
         import ru.mail.polis.DAO;
         import ru.mail.polis.Record;

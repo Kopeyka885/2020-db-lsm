@@ -20,7 +20,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 import java.io.IOException;
-import ru.mail.polis.Kopeyka885.DAOClass;
+import ru.mail.polis.kopeyka885.DAOClass;
 
 /**
  * Custom {@link DAO} factory.
