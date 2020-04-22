@@ -34,6 +34,6 @@ public class MyDAO implements DAO {
 
     @Override
     public void close() {
-        // empty yet or already
+        // empty yet or already (added comment to restart travis checks)
     }
 }
